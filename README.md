@@ -1,2 +1,1 @@
-# Login_Signup_form
-GUI based Login/Signup form using CSS,HTML and JavaScript
+Responsive Registration Form using HTML CSS and JavaScript
